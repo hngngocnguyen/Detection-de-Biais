@@ -1,5 +1,7 @@
 # Analyse du risque d'AVC, biais et modélisation responsable
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit&logoColor=white)](https://detection-de-biais-nguyen.streamlit.app/)
+
 ## Application en ligne
 https://detection-de-biais-nguyen.streamlit.app/
 
