@@ -1,5 +1,8 @@
 # Analyse du risque d'AVC, biais et modélisation responsable
 
+## Application en ligne
+https://detection-de-biais-nguyen.streamlit.app/
+
 ## Description
 Cette application Streamlit permet d'analyser le jeu de données Stroke Prediction de bout en bout: exploration des données, détection de biais sur attributs sensibles, puis comparaison de modèles de classification en tenant compte de la performance et de l'équité.
 
@@ -37,12 +40,15 @@ Prérequis:
    streamlit run app.py
 
 ## Déploiement
-Option recommandée: Streamlit Community Cloud
+Streamlit Community Cloud
 1. Pousser le projet sur GitHub.
 2. Se connecter à https://share.streamlit.io/
 3. Créer une nouvelle app et sélectionner le repo.
 4. Configurer le point d'entrée sur app.py.
 5. Déployer.
+
+Lien de l'application déployée:
+- https://detection-de-biais-nguyen.streamlit.app/
 
 Notes:
 - requirements.txt doit être présent à la racine.
